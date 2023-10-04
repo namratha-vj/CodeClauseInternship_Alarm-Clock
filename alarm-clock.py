@@ -10,7 +10,7 @@ pygame.mixer.init()
 
 def play_alarm_sound():
     # Load and play the alarm sound
-    pygame.mixer.music.load("alarm_sound.mp3")  # Add your alarm sound here
+    pygame.mixer.music.load("emergency-alarm-with-reverb-29431.mp3")  # Add your alarm sound here
     pygame.mixer.music.play()
 
 
